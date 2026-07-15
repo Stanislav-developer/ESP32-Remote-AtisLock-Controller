@@ -18,10 +18,9 @@
 
 ## 🎬 Відеоогляд проєкту
 
-<!-- TODO: Заміни VIDEO_LINK на посилання на відео, а PREVIEW_IMAGE на шлях до прев'ю (наприклад, Docs/youtube_preview.jpg) -->
 <div align="center">
-  <a href="https://youtu.be/d5a214GUi08?si=ROKAVji5T-b38r4e">
-    <img src="PREVIEW_IMAGE" alt="Відеоогляд Remote-Door V1.0" width="600">
+  <a href="https://youtu.be/d5a214GUi08">
+    <img src="Docs/Preview%20image.jpg" alt="Відеоогляд Remote-Door V1.0" width="600">
   </a>
   <p><i>▶️ Натисніть на зображення, щоб переглянути повний відеоогляд збірки та роботи пристрою</i></p>
 </div>
